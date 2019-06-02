@@ -18,3 +18,9 @@ further used for minimising the default rates.
 # Data Description
 train.zip contains train.csv
 data_dictionary.csv contains a brief description on each variable provided in the training and test set.
+
+# Model Evaluation
+Model :RandomForestClassifier,Logistic Regression
+Evaluation Metric: F1-score
+RandomeForestClassifier - f1-score:93.1%
+Logistic Regression - f1-score : 73.9%
